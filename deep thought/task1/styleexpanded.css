@@ -1,0 +1,1753 @@
+body{
+    box-sizing: border-box;
+  
+}
+
+.header{
+/* Group 1729 */
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+background: #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+
+
+.header .left img{
+/* logo 1 */
+
+position: absolute;
+width: 311px;
+height: 49px;
+left: 83px;
+top: 20px;
+
+
+}
+
+.header .right .home img{
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 1133px;
+top: 33px;
+}
+/* Group 1097 */
+
+
+.header .right .tools img{
+    /* Group 1100 */
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 1186px;
+top: 33px;
+
+
+}
+
+.header .right .bell img{
+/* Vector */
+
+position: absolute;
+width: 31.15px;
+height: 33.47px;
+top: 31.43px;
+left: 1237px;
+gap: 0px;
+opacity: 0px;
+
+
+/* info */
+
+
+}
+.header .right  .cont img{
+/* Ellipse 55 */
+
+position: absolute;
+width: 7.06px;
+height: 7.59px;
+top: 38.41px;
+left: 1255.6px;
+gap: 0px;
+opacity: 0px;
+}
+.header .right .lady img{
+/* Ellipse 53 */
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 1291px;
+top: 28px;
+
+background: url(attractive-beautiful-beauty-1376051.jpg);
+border-radius: 250px;
+
+}
+
+
+.header .right .dot1 img{
+/* Ellipse 1 */
+
+position: absolute;
+width: 3.03px;
+height: 2.99px;
+left: 1354px;
+top: 41px;
+
+/* info */
+background: #3683F0;
+
+
+}
+
+.header .right .dot2 img{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 3.03px;
+height: 2.99px;
+left: 1354px;
+top: 46.98px;
+
+/* info */
+background: #3683F0;
+
+}
+.header .right .dot3 img{
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 3.03px;
+height: 2.99px;
+left: 1354px;
+top: 52.97px;
+
+/* info */
+background: #3683F0;
+
+
+}
+
+
+.sidenav .top{
+/* Rectangle 1874 */
+
+position: absolute;
+left: 0%;
+right: 90.83%;
+
+bottom: 92.24%;
+
+background: #000000;
+border-radius: 0px 20px 0px 0px;
+
+top: 90px;
+gap: 0px;
+border-radius: 0px 20px 0px 0px;
+opacity: 0px;
+box-shadow: 1px 4px 4px 1px #00000040;
+width: 392px;
+height: 50px;
+top: 90px;
+gap: 0px;
+border-radius: 0px 20px 0px 0px;
+opacity: 0px;
+z-index: 2;
+}
+.sidenav .toptext{
+position: absolute;
+width: 124px;
+height: 24px;
+top: 103px;
+left: 18px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: white;
+z-index: 3;
+
+
+}
+.sidenav .bottom{
+/* Rectangle 2329 */
+
+position: absolute;
+width: 132px;
+height: 692px;
+left: 0px;
+top: 140px;
+background: #FDFDFD;
+box-shadow: 1px 4px 4px 1px #00000040;
+border-radius: 0px 0px 20px 20px;
+width: 392px;
+height: 692px;
+top: 140px;
+gap: 0px;
+border-radius: 0px 0px 20px 20px;
+opacity: 0px;
+z-index: 1;
+}
+.sidenav .bottomtxt{
+    position: absolute;
+    width: 310px;
+height: 24px;
+top: 161px;
+left: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+z-index: 3;
+color: black;
+}
+.sidenav .bottomcontent{
+    position: absolute;
+    width: 309px;
+    height: 110px;
+    top: 214px;
+    left: 37px;
+    gap: 0px;
+    opacity: 0px;
+    
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+z-index: 3;
+}
+.hero .h1{
+    /* Technical Project Management */
+
+position: absolute;
+width: 466px;
+height: 42px;
+left: 187px;
+top: 108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+letter-spacing: 0.02em;
+color: #0029FF;
+}
+
+
+.hero .content{
+    /* Rectangle 1873 */
+
+/* Rectangle 1873 */
+
+position: absolute;
+width: 1066px;
+height: 135px;
+left: 187px;
+top: 187px;
+
+background: #E9ECEF;
+border-radius: 5px;
+
+}
+.hero .h2{
+    /* Explore the world of management */
+
+position: absolute;
+width: 374.05px;
+height: 30px;
+left: 214px;
+top: 212px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.hero .p{
+    /* As a project manager, you play an important reole in leading a project through initiation, planning, execution, monitoring, controlling and completion. How? Do you want to manage each and every step of your life? */
+
+position: absolute;
+width: 1012px;
+height: 45px;
+left: 214px;
+top: 252px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+.hero button{
+/* Component 58 */
+
+position: absolute;
+width: 121px;
+height: 36px;
+left: 1132px;
+top: 108px;
+
+/* Rectangle 1 */
+
+
+
+background: #0029FF;
+border-radius: 10px;
+border: none;
+
+
+}
+
+.hero .btext{
+position: absolute;
+left: 0%;
+top: 0%;
+width: 73px;
+height: 18px;
+top: 9px;
+left: 24px;
+gap: 0px;
+opacity: 0px;
+color: #ffff;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;
+text-align: left;
+
+}
+
+
+
+.noticenav .white{
+ position: absolute;
+width: 95px;
+height: 394px;
+left: 1345px;
+top: 108px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px 0px 0px 30px;   
+}
+
+
+.noticenav .black{
+position: absolute;
+width: 394px;
+height: 50px;
+left: 1173px;
+top: 279px;
+z-index: 1;
+background: #000000;
+border-radius: 30px 30px 0px 0px;
+transform: rotate(-90deg);
+
+}
+
+/* Rectangle 2326 */
+
+
+.noticenav .x{
+   position: absolute;
+width: 34px;
+height: 34px;
+left: 1355px;
+top: 120px;
+ z-index: 2;
+}
+.noticenav .notice{
+/* N o t i c e B o a r d */
+
+position: absolute;
+width: 12px;
+height: 288px;
+left: 1366px;
+top: 184px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+z-index: 2;
+  
+}
+
+.card .cont{
+    /* Rectangle 1869 */
+
+position: absolute;
+width: 480px;
+height: 580px;
+left: 214px;
+top: 397px;
+z-index: -1;
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+
+.card .cardtop{
+    /* Rectangle 1874 */
+
+position: absolute;
+width: 480px;
+height: 50px;
+left: 214px;
+top: 397px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+}
+
+.card .toptext{
+/* Technical Project Management */
+
+position: absolute;
+width: 247px;
+height: 22px;
+left: 331px;
+top: 411px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+}
+.card .cardtopimage{
+    /* Group 1735 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 643px;
+top: 411px;
+
+
+}
+
+.card .cardtext{
+    /* Description: Story of Alignment Scope of Agility Specific Accountable Staggering Approach */
+
+position: absolute;
+width: 453px;
+height: 83px;
+left: 225px;
+top: 466px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+
+.card .fcard{
+/* image 13 */
+
+position: absolute;
+width: 480px;
+height: 291px;
+left: 214px;
+top: 533px;
+
+background: url(1stcard.png);
+
+}
+
+.card2 .cont2{
+/* Rectangle 1870 */
+
+position: absolute;
+width: 480px;
+height: 580px;
+left: 746px;
+top: 397px;
+z-index: -1;
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+}
+
+.card2 .cardtop2{
+    /* Rectangle 1875 */
+
+position: absolute;
+width: 480px;
+height: 50px;
+left: 746px;
+top: 397px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+}
+
+.card2 .toptext2{
+    /* Threadbuild */
+
+position: absolute;
+width: 97px;
+height: 22px;
+left: 938px;
+top: 411px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+}
+
+.card2 .cardtopimage2{
+    /* Group 1736 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1176px;
+top: 411px;
+
+}
+
+.card2 .cardtext2{
+    /* Description: Watch the video and threadbuild, and jot out key threads while watching the video */
+
+position: absolute;
+width: 458px;
+height: 83px;
+left: 756px;
+top: 466px;
+
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+color: #000000;
+
+
+}
+
+.card2 .threadAcont{
+/* Group 1431 */
+
+position: absolute;
+width: 478px;
+height: 40px;
+left: 747px;
+top: 534px;
+z-index: -1;
+border-top: 0.1px solid  rgb(143 141 141 / 40%);
+
+
+}
+
+.card2  .threadAtext{
+    position: absolute;
+    width: 89.63px;
+    height: 27px;
+    top: 540px;
+    left: 844.59px;
+    gap: 0px;
+    border: 0.1px 0px 0px 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27.24px;
+    text-align: left;
+    
+
+
+
+}
+
+.card2  .threadAlogo img{
+/* Vector */
+position: absolute;
+width: 15.98px;
+height: 9.6px;
+top: 549.6px;
+left: 756.96px;
+gap: 0px;
+border: 0.1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+
+.card2 .subthreadleft{
+/* Group 1592 */
+
+
+
+position: absolute;
+width: 199px;
+height: 65px;
+top: 604px;
+left: 773px;
+gap: 0px;
+border-radius: 10px;
+border: solid gray 0.1px 0px 0px 0px;
+opacity: 0.5px;
+box-shadow: 0px -1px 3px 0px rgba(0, 0, 0, 0.25);
+
+
+
+
+}
+.card2 .subthreadtextleft{
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    top: 608px;
+    left: 779.92px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    
+    
+        
+
+}
+.card2 .subthreadcontent{
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    top: 636px;
+    left: 780px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    color: rgba(108, 117, 125, 1);
+    
+
+
+}
+
+.card2 .subtxt{
+    position: absolute;
+    width: 199px;
+    height: 70px;
+    top: 629px;
+    left: 773px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px -0px 4px 0px rgba(0, 0, 0, 0.25);
+
+    opacity: 0px;
+}
+
+.card2 .subthreadright{
+    position: absolute;
+    width: 199px;
+    height: 64.32px;
+    top: 604px;
+    left: 999px;
+    gap: 0px;
+    border-radius: 10px;
+    border: 0.1px 0px 0px 0px;
+    opacity: 0.5px;
+    box-shadow: 0px -1px 3px 0px rgba(0, 0, 0, 0.25);
+
+    
+}
+
+.card2 .subthreadtextright{
+/* Sub Interpretation 1 */
+
+position: absolute;
+width: 113px;
+height: 16px;
+top: 607.96px;
+left: 1005.92px;
+gap: 0px;
+opacity: 0px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+
+}
+
+.card2 .subtxtr{
+    position: absolute;
+    width: 199px;
+    height: 69.27px;
+    top: 628.74px;
+    left: 999px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px -0px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.card2 .subthreadcontentr{
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    top: 635.67px;
+    left: 1006.11px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    color: rgba(108, 117, 125, 1);
+
+
+}
+
+.card2 .bulb{
+    position: absolute;
+    width: 14.78px;
+height: 20px;
+top: 726px;
+left: 855px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.card2 .msg{
+    position: absolute;
+    width: 21px;
+height: 20px;
+top: 726px;
+left: 883.78px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.card2 .qn{
+    position: absolute;
+    width: 21px;
+height: 20px;
+top: 726px;
+left: 918.78px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.card2 .flower{
+    position: absolute;
+    width: 18.71px;
+height: 18px;
+top: 727px;
+left: 953.78px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.card2 .categbg{
+position: absolute;
+width: 91px;
+height: 32px;
+top: 720px;
+left: 999px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+border-radius: 5px
+}
+
+.card2 .categ{
+ position: absolute;  
+ width: 65px;
+ height: 15px;
+ top: 728px;
+ left: 1003px;
+ gap: 0px;
+ opacity: 0px;
+ font-family: Poppins;
+ font-size: 10px;
+ font-weight: 600;
+ line-height: 15px;
+ text-align: left;
+  
+
+}
+
+.card2 .categvc{
+    position: absolute;
+    width: 10.19px;
+    height: 5.88px;
+    top: 725px;
+    left: 1074px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+
+.card2 .processbg{
+    position: absolute;
+    width: 91px;
+height: 32px;
+top: 720px;
+left: 1107px;
+gap: 0px;
+opacity: 0px;
+border-radius: 5px;
+box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.card2 .process{
+    position: absolute;
+    width: 85px;
+height: 15px;
+top: 728px;
+left: 1111px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 10px;
+font-weight: 600;
+line-height: 15px;
+text-align: left;
+
+}
+
+.card2 .subthreadbtn{
+    position: absolute;
+    width: 97px;
+    height: 36px;
+    top: 788px;
+    left: 773px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #0029FF;    
+    border-radius: 10px;
+
+}
+
+.card2 .subbtntxt{
+    position: absolute;
+    width: 60px;
+    height: 12.6px;
+    top: 50rem;
+    left: 50rem;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 500;
+line-height: 14.06px;
+text-align: left;
+color: white;
+    
+
+
+}
+.card2 .plus img{
+    position: absolute;
+    
+    top: 50.05rem;
+    left: 48.9rem;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+
+.card2 .summary{
+position: absolute;
+width: 425px;
+height: 108px;
+top: 843px;
+left: 773px;
+gap: 0px;
+border-radius: 10px;
+opacity: 0px;
+box-shadow: 1px 3px 8px 0px rgba(0, 0, 0, 0.25);
+
+
+
+
+}
+
+.card2 .sumthread{
+    position: absolute;
+    width: 151.52px;
+height: 16px;
+top: 847px;
+left: 787.78px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16.34px;
+text-align: left;
+
+
+}
+.card2 .sumtxtbg{
+    position: absolute;
+    width: 425px;
+height: 83px;
+top: 868px;
+left: 773px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+gap: 0px;
+border-radius: 10px;
+border-top:0.1px solid #ededed;
+opacity: 0.5px;
+
+
+
+}
+
+.card2 .sumtxt{
+    position: absolute;
+    width: 87.77px;
+height: 16px;
+top: 875px;
+left: 787.78px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16.34px;
+text-align: left;
+color: rgba(153, 153, 153, 1);
+;
+}
+
+
+
+.card3 .cont3{
+/* Rectangle 1871 */
+
+position: absolute;
+width: 480px;
+height: 580px;
+left: 213px;
+top: 1034px;
+
+background: #FDFDFD;
+box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+
+}
+
+.card3 .cardtop3{
+/* Rectangle 2321 */
+
+position: absolute;
+width: 480px;
+height: 50px;
+left: 213px;
+top: 1035px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+
+
+}
+
+.card3 .toptext3{
+    position: absolute;
+    width: 190px;
+    height: 22px;
+    top: 1049px;
+    left: 358px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.card3 .cardtopimage3{
+
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 643px;
+top: 1049px;
+
+
+
+    
+}
+
+.card3 .cardtext3{
+    position: absolute;
+    width: 433px;
+    height: 83px;
+    top: 1113px;
+    left: 240px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #000000;        
+
+
+}
+
+
+.card3 .midcont{
+    position: absolute;
+    width: 479px;
+    height: 399px;
+    top: 1215px;
+    left: 214px;
+    gap: 0px;
+    border-radius: 15px;
+    opacity: 0px;
+    border-top: 0.1px solid rgb(143 141 141 / 40%);
+
+}
+
+.card3 .title{
+position: absolute;
+width: 85px;
+height: 33px;
+top: 1243px;
+left: 245px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+
+}
+
+.card3 .titlebar{
+    position: absolute;
+    width: 422px;
+height: 43px;
+top: 1281px;
+left: 245px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+box-shadow: -2px 2px 6px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.card3 .content{
+position: absolute;
+width: 85px;
+height: 33px;
+top: 1352px;
+left: 245px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+
+}
+
+.card3 .contenttool{
+    /* Rectangle 1882 */
+
+position: absolute;
+width: 422px;
+height: 82px;
+left: 245px;
+top: 1390px;
+
+background: #FCFBFB;
+box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.18);
+border-radius: 5px 5px 0px 0px;
+
+}
+
+
+.card3 .file{
+position: absolute;
+width: 22px;
+height: 22px;
+top: 1403px;
+left: 265px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+color:  rgba(97, 97, 97, 1);
+;
+}
+.card3 .edit{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 24px;
+    height: 22px;
+    top: 1403px;
+    left: 302px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.card3 .view{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 30px;
+    height: 22px;
+    top: 1403px;
+    left: 341px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+}
+
+.card3 .insert{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 36px;
+height: 22px;
+top: 1403px;
+left: 386px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card3 .format{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 46px;
+    height: 22px;
+    top: 1403px;
+    left: 437px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.card3 .tools{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 33px;
+    height: 22px;
+    top: 1403px;
+    left: 498px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card3 .table{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 35px;
+height: 22px;
+top: 1403px;
+left: 546px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card3 .help{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 28px;
+    height: 22px;
+    top: 1403px;
+    left: 596px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card3 .lft {
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    top: 1435px;
+    left: 258px;
+    padding: 3.15px;
+    gap: 24px;
+    opacity: 0px;
+    
+    
+}
+.card3 .rgt{
+    position: absolute;
+    width: 19px;
+height: 19px;
+top: 1434px;
+left: 283px;
+padding: 3.32px 2.85px 3.33px 2.85px;
+gap: 24px;
+opacity: 0px;
+
+
+}
+
+.card3 .outarrow{
+    position: absolute;
+    width: 19px;
+height: 19px;
+top: 1435px;
+left: 326px;
+padding: 1.9px;
+gap: 24px;
+opacity: 0px;
+
+}
+
+.card3 .paragraph{
+    position: absolute;
+    color:  rgba(97, 97, 97, 1);
+    width: 78px;
+    height: 22px;
+    top: 1437px;
+    left: 364px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.card3 .gdot1{
+    position: absolute;
+    width: 5px;
+height: 5px;
+top: 1435px;
+left: 475px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card3 .gdot2{
+    position: absolute;
+    width: 5px;
+height: 5px;
+top: 1435px;
+left: 482px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card3 .gdot3{
+    position: absolute;
+    width: 5px;
+height: 5px;
+top: 1435px;
+left: 489px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card3 .contentinput{
+    position: absolute;
+    width: 422px;
+height: 142px;
+top: 1472px;
+left: 245px;
+gap: 0px;
+opacity: 0px;
+box-shadow: -2px 2px 6px 0px rgba(0, 0, 0, 0.15);
+
+}
+.card4 .cont4{
+/* Rectangle 1872 */
+
+position: absolute;
+width: 480px;
+height: 580px;
+left: 745px;
+top: 1034px;
+
+background: #FDFDFD;
+box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+}
+
+.card4 .cardtop4{
+    /* Rectangle 2322 */
+
+position: absolute;
+width: 480px;
+height: 50px;
+left: 745px;
+top: 1035px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+}
+
+.card4 .cardtoptext{
+    position: absolute;
+    width: 97px;
+height: 22px;
+top: 1049px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+color: white;
+}
+.card4 .cardtoplogo{
+    /* Group 1738 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1176px;
+top: 1050px;
+
+
+}
+
+.card4 .desc{
+    position: absolute;
+    width: 433px;
+    height: 83px;
+    top: 1132px;
+    left: 768px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    letter-spacing: 0.02em;
+    text-align: left;
+     color: black;   
+
+
+}
+.card4 .midcont{
+    /* Rectangle 2323 */
+
+position: absolute;
+width: 480px;
+height: 428px;
+left: 745px;
+top: 1186px;
+
+background: #FDFDFD;
+border: 1px solid #D1CECE;
+border-radius: 0px 0px 15px 15px;
+
+}
+
+.card4 .intro{
+    position: absolute;
+    width: 193px;
+height: 30px;
+top: 1195px;
+left: 812px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+color: black;
+}
+.card4 .arwtop{
+    position: absolute;
+    width: 15.98px;
+height: 9.6px;
+top: 1197.6px;
+left: 782px;
+gap: 0px;
+border: 0.1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.card4 .midtext{
+    position: absolute;
+    width: 394px;
+height: 67px;
+top: 1245px;
+left: 779px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.07px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card4 .seemore{
+    position: absolute;
+    width: 71px;
+height: 29px;
+top: 1295px;
+left: 1130px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 19.07px;
+letter-spacing: 0.02em;
+text-align: left;
+color: rgba(96, 97, 97, 1);
+
+}
+.card4 .threadcont{
+    /* Rectangle 2327 */
+
+position: absolute;
+width: 434px;
+height: 43px;
+left: 769px;
+top: 1344px;
+
+background: #FCFCFC;
+border: 1px solid #e9e6e6;
+
+}
+.card4 .threadA{
+    position: absolute;
+    width: 193px;
+height: 30px;
+top: 1353px;
+left: 813px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.card4 .arwtops{
+    position: absolute;
+    width: 15.98px;
+    height: 9.6px;
+    top: 1355.6px;
+    left: 783px;
+    gap: 0px;
+    border: 0.1px 0px 0px 0px;
+    opacity: 0px;
+    
+
+}
+.card4 .threadtxt{
+    position: absolute;
+    width: 424px;
+height: 67px;
+top: 1403px;
+left: 784px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.07px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+
+.card4 .seemore2{
+    position: absolute;
+    width: 71px;
+height: 29px;
+top: 1490px;
+left: 1130px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 19.07px;
+letter-spacing: 0.02em;
+text-align: left;
+color: rgba(96, 97, 97, 1);
+
+}
+
+.card4 .egcont{
+    /* Rectangle 2328 */
+
+position: absolute;
+width: 394px;
+height: 43px;
+left: 809px;
+top: 1535px;
+
+background: #FCFCFC;
+border: 1px solid #e9e6e6;
+
+}
+
+.card4 .eg1{
+    position: absolute;
+    width: 193px;
+height: 30px;
+top: 1543px;
+left: 833px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.card4 .concept{
+    position: absolute;
+    width: 394px;
+height: 67px;
+top: 1590px;
+left: 813px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.07px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.bluedot1{
+    position: absolute;
+    width: 85px;
+height: 85px;
+top: 1490px;
+left: 1303px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bluedot2{
+    position: absolute;
+    width: 85px;
+height: 85px;
+top: 1596px;
+left: 1303px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.bluedot3{
+    position: absolute;
+    width: 85px;
+height: 85px;
+top: 1702px;
+left: 1303px;
+gap: 0px;
+opacity: 0px;
+
+}
+.qnmark{
+position: absolute;
+width: 37px;
+height: 40px;
+top: 1512px;
+left: 1327px;
+gap: 0px;
+opacity: 0px;
+
+}
+.teams{
+position: absolute;
+width: 46px;
+height: 46px;
+top: 1615px;
+left: 1323px;
+gap: 0px;
+opacity: 0px;
+
+}
+.calender{
+position: absolute;
+width: 50px;
+height: 50px;
+top: 1722px;
+left: 1323px;
+gap: 0px;
+opacity: 0px;
+
+}
